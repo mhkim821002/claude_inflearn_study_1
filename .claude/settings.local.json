@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip3 install *)",
+      "Bash(cd *)",
+      "Bash(python3 -)",
+      "Bash(cp p10_0.jpg hero-soc.jpg)",
+      "Bash(cp p4_0.jpg datacenter.jpg)",
+      "WebFetch(domain:www.yangportfo.com)",
+      "Skill(update-config)"
+    ]
+  },
+  "model": "sonnet"
+}
