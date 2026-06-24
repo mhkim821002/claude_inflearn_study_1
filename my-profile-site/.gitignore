@@ -1,0 +1,39 @@
+# OS 파일
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+
+# 에디터 설정
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code 설정 (로컬 전용)
+.claude/settings.local.json
+
+# 환경 변수
+.env
+.env.local
+.env.*.local
+
+# 빌드 결과물
+dist/
+build/
+out/
+
+# Node.js (향후 패키지 사용 시)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 임시 파일
+*.tmp
+*.log
+*.pdf
