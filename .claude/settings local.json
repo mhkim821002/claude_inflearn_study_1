@@ -1,0 +1,19 @@
+{
+        "permissions": {
+          "allow": [
+            "Bash(pip3 install *)",
+            "Bash(cd *)",
+            "Bash(python3 -)",
+            "Bash(cp p10_0.jpg hero-soc.jpg)",
+            "Bash(cp p4_0.jpg datacenter.jpg)",
+            "WebFetch(domain:www.yangportfo.com)",
+            "Skill(update-config)",
+            "Bash(git add *)",
+            "Bash(git commit -m ' *)",
+            "Bash(git checkout *)",
+            "Bash(git merge develop --no-ff -m ' *)",
+            "Bash(git push *)"
+          ]
+        },
+        "model": "sonnet"
+}
